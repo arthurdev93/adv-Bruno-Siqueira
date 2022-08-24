@@ -997,14 +997,16 @@ form label {
 }
 .gtco-nav-toggle.active i::before, .gtco-nav-toggle.active i::after {
   background: #444;
+  
 }
 .gtco-nav-toggle:hover, .gtco-nav-toggle:focus, .gtco-nav-toggle:active {
   outline: none;
   border-bottom: none !important;
+  
 }
 .gtco-nav-toggle i {
   position: relative;
-  display: inline-block;
+  display: flex;
   width: 25px;
   height: 2px;
   color: #252525;
@@ -1068,16 +1070,14 @@ form label {
   -o-transform: rotateZ(-45deg);
   transform: rotateZ(-45deg);
 }
-
+/*ABAIXO CONFIG POSIÇÃO BOTAO MENU MOBILE*/
 .gtco-nav-toggle {
-  position: fixed;
-  right: 0px;
+  position: sticky;
+  display: none;  
+  margin: auto;
   top: 10px;
   z-index: 21;
-  padding: 6px 0 0 0;
-  display: block;
-  margin: 0 auto;
-  display: none;
+  padding: 6px;
   height: 44px;
   width: 44px;
   z-index: 2001;
