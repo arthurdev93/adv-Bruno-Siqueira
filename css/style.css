@@ -963,9 +963,11 @@ form label {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
+
+/*ABAIXO DESATIVEI O BOTÃO SETA DE VOLTAR AO HOME PAGE*/
 .gototop.active {
   opacity: 1;
-  visibility: visible;
+  visibility: hidden;
 }
 .gototop a {
   width: 50px;

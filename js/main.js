@@ -281,6 +281,7 @@
 
 	};
 
+	//abaixo função js do botão seta subir ao home page
 
 	var goToTop = function() {
 
@@ -306,8 +307,8 @@
 
 		});
 	
-	};
-
+	}; 
+	
 
 	// Loading page
 	var loaderPage = function() {
