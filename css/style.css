@@ -43,7 +43,7 @@ body {
 }
 
 a {
-  color: #7ED321;
+  color: #09543F;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -259,14 +259,14 @@ h1, h2, h3, h4, h5, h6, figure {
   color: black;
 }
 .gtco-nav.scrolled ul li.active > a {
-  color: #7ED321 !important;
+  color: #09543F !important;
 }
 .gtco-nav.scrolled ul li.btn-cta a {
   color: #fff;
 }
 .gtco-nav.scrolled ul li.btn-cta a span {
   border: none !important;
-  background: #7ED321;
+  background: #34af23;
   padding: 4px 20px;
   color: #fff;
 }
@@ -589,7 +589,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-our-team .gtco-team-reverse .img-shadow,
 #gtco-our-team .gtco-team .img-shadow {
   position: relative;
-  background: #7ED321;
+  background: #09543F;
   width: 100%;
   float: left;
   margin-bottom: 30px;
@@ -727,7 +727,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .gtco-contact-info ul li:before {
-  color: #7ed321;
+  color: #09543F;
   position: absolute;
   left: 0;
   top: .05em;
