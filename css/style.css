@@ -754,9 +754,9 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 23px;
   content: "\e9da";
 }
-.gtco-contact-info ul li.url:before {
+.gtco-contact-info ul li.icon-instagram:before {
   font-size: 23px;
-  content: "\e9af";
+  content: "\ea6f";
 }
 
 form label {
