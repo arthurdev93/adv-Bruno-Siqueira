@@ -1,0 +1,8 @@
+AJUSTES SITE SIQUEIRA
+- remover espaços entre sessoes
+- Logo só em cabeçalho
+- remover "quem somos"
+- aumentar fonte descrição quem somos
+- balão botao converse comigo
+- dr. p os dois
+- zap pisca pisca?
